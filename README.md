@@ -22,10 +22,10 @@ Calcula el índice de masa corporal basándose en el peso y altura, clasificando
 Una herramienta funcional para gestionar pendientes permitiendo agregar, ver y borrar tareas de una lista.
 ![Tareas](tareas.png)
 
-### 📸 Prueba de funcionamiento:
+### 📸 5.Prueba de funcionamiento:
 ![Resultado](./resultado.png)
 
-## Juego de Superhéroes (Nuevo 🦸‍♀️✨)
+## 6. Juego de Superhéroes 🦸‍♀️✨
 ¡He mejorado mis habilidades! Diseñé un juego interactivo que utiliza bucles `while`, condicionales `if/else`, listas y diccionarios para registrar campeones.
 
 ### Así corre mi programa:
