@@ -24,3 +24,9 @@ Una herramienta funcional para gestionar pendientes permitiendo agregar, ver y b
 
 ### 📸 Prueba de funcionamiento:
 ![Resultado](./resultado.png)
+
+## Juego de Superhéroes (Nuevo 🦸‍♀️✨)
+¡He mejorado mis habilidades! Diseñé un juego interactivo que utiliza bucles `while`, condicionales `if/else`, listas y diccionarios para registrar campeones.
+
+### Así corre mi programa:
+![Terminal](superheroes.png)
