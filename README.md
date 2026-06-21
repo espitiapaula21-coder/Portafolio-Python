@@ -34,4 +34,4 @@ Este proyecto incluye una base de datos relacional robusta en MySQL para gestion
 
 Aquí se puede ver el reporte unificado de las ventas en vivo:
 
-![Reporte de Ventas](sistema_de_ventas.png)
+![sistema de ventas](sistema_de_ventas.png)
