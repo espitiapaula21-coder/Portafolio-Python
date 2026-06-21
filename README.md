@@ -33,5 +33,4 @@ Una herramienta funcional para gestionar pendientes permitiendo agregar, ver y b
 Este proyecto incluye una base de datos relacional robusta en MySQL para gestionar el inventario, clientes y ventas de la tienda.
 
 Aquí se puede ver el reporte unificado de las ventas en vivo:
-
-![sistema de ventas](sistema_de_ventas.png)
+![Informe de Ventas](sistema_ventas.png)
