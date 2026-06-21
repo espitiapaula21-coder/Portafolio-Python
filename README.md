@@ -28,7 +28,7 @@ Una herramienta funcional para gestionar pendientes permitiendo agregar, ver y b
 ## 6. Juego de Superhéroes 🦸‍♀️✨
 ¡He mejorado mis habilidades! Diseñé un juego interactivo que utiliza bucles `while`, condicionales `if/else`, listas y diccionarios para registrar campeones.
 
-## 7. Base de Datos - Sistema de Ventas Pro📊
+## 7.Base de Datos - Sistema de Ventas Pro📊
 
 Este proyecto incluye una base de datos relacional robusta en MySQL para gestionar el inventario, clientes y ventas de la tienda.
 
